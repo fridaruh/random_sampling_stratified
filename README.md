@@ -1,0 +1,2 @@
+# random_sampling_stratified
+Muestreo Aleatorio Estratificado
